@@ -2,12 +2,6 @@
 
 It is an android java application project that uses SQlite database to store data. This app was given as a practice project at the end of Udacity Course - Android Basics: Data Storage.
 
-## Screenshot
-
-| ![screenshot_home](https://github.com/sDevPrem/inventory-sqlite-demo/assets/130966261/4bcf1153-0184-40af-8569-9e9003187452) | ![screenshot_details](https://github.com/sDevPrem/inventory-sqlite-demo/assets/130966261/2a1c845e-1e97-429c-a558-30a7836130e9) | 
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-
-
 The app has two activity:
 
 1. First one shows a list of inventory. Each Item has a sale button which reduces its quantity by one.
