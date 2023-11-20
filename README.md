@@ -36,13 +36,13 @@
 **На ОС Windows осуществляется следующим образом:**
   1. Открыть командную строку.
   2. Написать следующие команды:
-```
-cd <project_folder>
-gradlew assembleDebug
-```
+  ```
+  cd <project_folder>
+  gradlew assembleDebug
+  ```
 **На ОС Linux:**
   1. Ctrl + Alt + T
-  2. Написать следющуие команды:
+  2. Написать следующие команды:
      ```
      $ cd <project_folder>
      ./gradlew assembleDebug
